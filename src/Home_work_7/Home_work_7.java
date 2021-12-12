@@ -8,7 +8,7 @@ public class Home_work_7 {
                 new Cat (" Мурзик"),
                 new Cat (" Персик"),
                 new Cat (" Борис"),
-                new Cat (" Морис"),
+                //new Cat (" Морис"),
         };
 
         Plate plate = new Plate(100);
